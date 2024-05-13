@@ -1,0 +1,8 @@
+package com.linkedin.services;
+
+import org.springframework.steryotype.Service;
+
+@Service
+public class EmployeeServiceImpl implements EmployeeService {
+    
+} 

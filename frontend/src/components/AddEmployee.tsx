@@ -15,7 +15,7 @@ export default function AddEmployee() {
           </label>
           <input className="h-8 w-72 border mt-2 py-2" type="text" />
           <label className="block text-gray-500 text-sm font-" htmlFor="">
-            First email:
+            email:
           </label>
           <input className="h-8 w-72 border mt-2 py-2" type="email" />
           <div className="item-center justify-center h-14 w-full my-4">
