@@ -59,7 +59,6 @@ $  npm run dev
 
 <a href="" alt="deploy-application">Testar aplicacao agora. </a>
 
-![2023-09-16 00-31-32 (3)](https://github.com/Guilhermefonseca2021/kafene/assets/92196697/ea74a947-0146-4ad6-9734-84eef5b94c64)
 
 made with 💜 by GUILHERME FONSECA 👋 [See my linkedIn]
 ## Contribuição
